@@ -5,9 +5,7 @@ Financial institutions must evaluate whether a customer is likely to repay a loa
 This project builds a **Machine Learning classification model** to predict **credit risk (Good / Bad)** using the German Credit dataset.
 
 The goal is to reduce financial losses by identifying high-risk customers early.
-
 ---
-
 ## 🎯 Objectives
 - Perform Exploratory Data Analysis (EDA)
 - Clean and preprocess real-world financial data
@@ -44,16 +42,4 @@ Metrics used:
 - ROC-AUC
 
   
-## 📂 Project Structure
-credit-risk-analysis
-│
-├── data/
-│ └── german_credit_data.csv # Dataset
-│
-├── notebooks/
-│ └── credit_risk_analysis.ipynb # Colab/Jupyter notebook
-│
-├── images/ # Plots for README (optional)
-│
-├── requirements.txt # Dependencies
-└── README.md
+
